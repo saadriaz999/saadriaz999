@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Saad 👋
+
+You can take a look at my projects to know more about what I do
 
 <!--
 **saadriaz999/saadriaz999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
